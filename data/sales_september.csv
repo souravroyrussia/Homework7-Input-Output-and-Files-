@@ -1,0 +1,4 @@
+
+id,date,drink,volume_ml,price,barista,payment,note
+1,2025-09-01,Latte,300,250,Anna,карта,First order
+2,2025-09-02,Americano,250,180,Ivan,наличные,No sugar

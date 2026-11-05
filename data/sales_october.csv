@@ -1,0 +1,4 @@
+
+id,date,drink,volume_ml,price,barista,payment,note
+1,2025-10-01,Cappuccino,300,270,Olga,карта,October order
+2,2025-10-02,Latte,300,250,Ivan,наличные,October order

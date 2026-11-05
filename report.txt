@@ -1,0 +1,8 @@
+1. Total sales rows: 4
+2. Empty payment rows: 0
+3. Zero-price rows: 0
+4. Best drink by revenue: Latte
+5. Revenue of best drink: 500 rubles
+6. Busiest October barista: Olga
+7. September card payments: 1
+8. Best sales date: 2025-10-01
